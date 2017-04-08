@@ -2,6 +2,7 @@
 name = "iron-reference"
 version = "0.1.0"
 authors = ["heartsucker <heartsucker@autistici.org>"]
+build = "build.rs"
 
 [[bin]]
 name = "iron-reference"
